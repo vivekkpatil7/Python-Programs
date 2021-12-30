@@ -98,7 +98,7 @@ Let’s explore some examples of namespaces:
 - **Global Namespace** consists of names from various imported modules/packages that are being used in the ongoing project. It is created once the package is imported into the script and survives till the execution of the script.
 - **Built-in Namespace** consists of built-in functions of core Python and dedicated built-in names for various types of exceptions.
 
-***Want to become a master in Python programming? Check out this [Python Training for Data Science](https://intellipaat.com/python-for-data-science-training/) and excel in your Python career!***
+
 
 ### 9. Explain Inheritance in Python with an example?
 
@@ -196,9 +196,7 @@ String in Python2 is ASCII implicitly, and in Python3 it is Unicode.
 
 The xrange() method has removed from Python 3 version. A new keyword as is introduced in Error handling.
 
-### 18. What is PYTHONPATH?
 
-PYTHONPATH is an environment variable which is used when a module is imported. Whenever a module is imported, PYTHONPATH is also looked up to check for the presence of the imported modules in various directories. The interpreter uses it to determine which module to load.
 
 For more interview que follow this link
 
