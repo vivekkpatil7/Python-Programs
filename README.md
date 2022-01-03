@@ -1,7 +1,15 @@
 <h1> Day 1 - Getting Starting with Python </h1>
 
 
-<h2>interview question on python basic</h2>
+<h3>This repository was created in multiple part you can learn and practice python code. </h3>
+
+- Cover Basic introduction of python
+- Comments
+- Data type (numeric and bool and text type)
+- Operators
+- String and string indexing, string slicing
+
+<h2>Interview 15 + question on python basic</h2>
 
 The biggest strength of Python is huge collection of standard library which can be used for the following:
 
