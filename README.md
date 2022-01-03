@@ -1,8 +1,7 @@
 <h1> Day 1 - Getting Starting with Python </h1>
 
-[polygonrunway on Twitter (1).png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/aa8b10f7-5a34-40fa-84d2-38c4b3262c63/polygonrunway_on_Twitter_(1).png)
 
-This specially designed Python tutorial will help you learn Python Programming Language in most efficient way, with the topics from basics to advanced (like Web-scraping, Django, Deep-Learning, etc.) with examples.
+interview question on python basic
 
 The biggest strength of Python is huge collection of standard library which can be used for the following:
 
