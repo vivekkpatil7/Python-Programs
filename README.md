@@ -1,13 +1,10 @@
-<h1> Day 1 - Getting Starting with Python </h1>
+<h1> Getting Starting with Python </h1>
 
 
-<h3>This repository was created in multiple part you can learn and practice python code. </h3>
+<h3>Day 1 - Python basic </h3>
+<h4>Day 2 - String in detail way </h4>
+-
 
-- Cover Basic introduction of python
-- Comments
-- Data type (numeric and bool and text type)
-- Operators
-- String and string indexing, string slicing
 
 <h2>Interview 15 + question on python basic</h2>
 
