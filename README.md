@@ -1,7 +1,7 @@
 <h1> Day 1 - Getting Starting with Python </h1>
 
 
-interview question on python basic
+<h2>interview question on python basic</h2>
 
 The biggest strength of Python is huge collection of standard library which can be used for the following:
 
