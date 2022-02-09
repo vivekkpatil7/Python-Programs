@@ -11,9 +11,11 @@
     <img src="https://img.shields.io/github/last-commit/lenargasimov/100-days-of-python?style=plastic" alt="GitHub last commit">
 </p>
 
+I used Pycharm,google colab and Jupyter-notebook to write code.
+
 Since I Started Learning python. Goal is to master in python, I follow many tutorial on internet(youtube).I read few book on python, It provide more and more knowlegde gain concepts. i have taking notes and what-not and attempting all of Practice and Project to the best of my abilities.
 I'll be using this repository as a way for myself to access them as and i make this more structured. It help full for me to revise and learn.
-I specially thankfull my mentor form over internet : Nitish Singh, Krish Naik, Sudhanshu Kumar
+I specially thanks to my mentor form over internet : Nitish Singh, Krish Naik, Sudhanshu Kumar
 
 ## Beginner 👨🏻‍🎓 
 - [Day 1](): Introduction to Variables - Comments
@@ -102,6 +104,66 @@ I specially thankfull my mentor form over internet : Nitish Singh, Krish Naik, S
 - [Day 78](): Django
 - [Day 79](): Review Scrapper using Beutifull scope-mongo db-flask
 - [Day 80](): image scrapper
+
+## 💪 Intermediate++
+- [Day 81]():Automation Testing
+- [Day 82]():Alexa Python Development: Build and Deploy an Alexa Skill
+- [Day 82]():Web Scraping to Create CSV
+- [Day 83]():Scraping Instagram with Python
+- [Day 84]():Scrape Wikipedia With Python
+- [Day 84]():OTP Verification using Python
+- [Day 84]():Simple Chatbot and deployment
+- [Day 84]():Telegram Chatbot
+- [Day 85]():A website to show off your skills and the things I built
+- [Day 86]():Built a todo list website with Flask
+- [Day 87]():Built a website that lists cafes with wifi and power for remote working
+- [Day 88]():Built a custom web scraper to collect data
+- [Day 89]():Sent a WhatsApp Message with Python
+- [Day 90]():Analysed and Visualise the Space Race
+- [Day 91]():Analyzing Deaths involving Police in the United States
+- [Day 92]():Predicting Earnings using Multivariable Regression
+- [Day 93]():Whatsapp chat analysis project
+- [Day 94]():Olympics Data Analysis project
+- [Day 95]():
+- [Day 96]():
+- [Day 97]():
+- [Day 98]():
+- [Day 99]():
+- [Day 100]():
+
+## 💪 Intermediate++
+- [Day 100]():
+- [Day 100]():
+- [Day 100]():
+- [Day 100]():
+- [Day 100]():
+- [Day 100]():
+- [Day 100]():
+- [Day 100]():
+- [Day 100]():
+- [Day 100]():
+- [Day 100]():
+- [Day 100]():
+- [Day 100]():
+- [Day 100]():
+- [Day 100]():
+- [Day 100]():
+- [Day 100]():
+- [Day 100]():
+- [Day 100]():
+- [Day 100]():
+- [Day 100]():
+- [Day 100]():
+- [Day 100]():
+- [Day 100]():
+- [Day 100]():
+- [Day 100]():
+- [Day 100]():
+- [Day 100]():
+- [Day 100]():
+- [Day 100]():
+- [Day 100]():
+- [Day 100]():
 
 
  
