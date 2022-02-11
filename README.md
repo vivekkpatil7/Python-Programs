@@ -1,8 +1,8 @@
 <p align="center">
-<img width="" src="https://media.giphy.com/media/kPVTbiTORIopy/giphy.gif" align="center" alt="gif" />
+<img width="" src="https://github.com/vivekkpatil7/Go-With-Python/blob/9c63c51fd547d96271035e75a856f0e9c4632fcc/giphy.gif" />
 <h1 align="center">Python-Programs 🐍 
-  <a href="https://twitter.com/intent/tweet?&url=https://github.com/lenargasimov/100-days-of python&via=lenargasimov&hashtags=html,css,bootstrap,js,python,flask,100daysofcode,developers">
-      <img alt="Tweet" src="https://img.shields.io/twitter/url/http/shields.io.svg?style=social" />
+  <a href="https://www.linkedin.com/in/vivekkpatil7/">
+      <img alt="Tweet" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
 </h1>
 </p>
@@ -11,12 +11,12 @@
     <img src="https://img.shields.io/github/last-commit/lenargasimov/100-days-of-python?style=plastic" alt="GitHub last commit">
 </p>
 
+Since I Started Learning python. Goal is to master in python, I follow many tutorial on internet(youtube). I read few book on python, It provide more and more knowlegde to gain concepts. I have taking notes and what-not and attempting all of Practice and Project to the best of my abilities.
+I'll be using this repository as a way for myself to access them as and i make this more structured. It help full for me and others to revise and learn.
 I used Pycharm,google colab and Jupyter-notebook to write code.
 
-Since I Started Learning python. Goal is to master in python, I follow many tutorial on internet(youtube).I read few book on python, It provide more and more knowlegde gain concepts. i have taking notes and what-not and attempting all of Practice and Project to the best of my abilities.
-I'll be using this repository as a way for myself to access them as and i make this more structured. It help full for me to revise and learn.
-I specially thanks to my mentor form over internet : Nitish Singh, Krish Naik, Sudhanshu Kumar
-
+I specially thanks to my mentor : [Nitish Singh](https://www.linkedin.com/in/nitish-singh-03412789/), [Krish Naik](https://www.linkedin.com/in/naikkrish/), [Sudhanshu Kumar](https://www.linkedin.com/in/-sudhanshu-kumar/)
+ 
 ## Beginner 👨🏻‍🎓 
 - [Day 1](): Introduction to Variables - Comments
 - [Day 2](): Understanding Datatypes and Casting
