@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-    <img src="https://img.shields.io/github/last-commit/lenargasimov/100-days-of-python?style=plastic" alt="GitHub last commit">
+    <img src="https://img.shields.io/github/last-commit/vivekkpatil7/Python-Programs" alt="GitHub last commit">
 </p>
 
 Since I Started Learning python. Goal is to master in python, I follow many tutorial on internet(youtube). I read few book on python, It provide more and more knowlegde to gain concepts. I have taking notes and what-not and attempting all of Practice and Project to the best of my abilities.
