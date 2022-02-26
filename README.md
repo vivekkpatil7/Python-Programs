@@ -21,7 +21,7 @@ I specially thanks to my mentor : [Nitish Singh](https://www.linkedin.com/in/nit
 - [Day 1](): Introduction to Variables - Comments
 - [Day 2](): Understanding Datatypes and Casting
 - [Day 3](): String
-- [Day 4](): Control Flows and Logical Operators 
+- [Day 4](): Control Flows and all Operators 
 - [Day 5](): Random and Range
 - [Day 6](): Python List and Other Data type containers
 - [Day 7](): Set,Tuples,Dictionary
